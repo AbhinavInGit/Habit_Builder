@@ -22,7 +22,7 @@ Peer Pusher helps users develop sustainable habits through structured 30-day cha
 Tech Aspire
 
 ### Team Members:  
--Isha Tiwari (UI/UX Designer)
+- Isha Tiwari (UI/UX Designer)
 - Abhinav Pandey (Backend Developer)
 - Ojhas Mishra (Frontend Developer)
 
