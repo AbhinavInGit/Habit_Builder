@@ -60,7 +60,7 @@ Tech Aspire
 ## 📽️ Demo & Deliverables
 
 - **Pitch Deck:** [Google Slides](https://drive.google.com/file/d/1GJV0P59yxn8XLHxuTihD863ADSn7tp9s/view?usp=sharing)
-  ##Snapshots : 
+- ## Snapshots : 
 - ![signup](https://github.com/user-attachments/assets/4afe2b0c-9d50-47a6-9b84-af09459ad49e)
 - ![landing](https://github.com/user-attachments/assets/ac7560b9-c53e-4f60-887a-01bcec0a5f03)
 - ![habits](https://github.com/user-attachments/assets/dd233440-df3f-4682-a147-87a3f28a97e1)
