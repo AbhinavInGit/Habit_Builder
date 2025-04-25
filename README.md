@@ -55,7 +55,7 @@ Tech Aspire
 - ✅ Multi-Category Habit Challenges
 - ✅ Responsive Mobile-Friendly UI
 
-![Habit Tracker Demo](https://via.placeholder.com/600x400?text=Task+Dashboard+Preview)
+
 
 ---
 
